@@ -103,7 +103,7 @@ spec:
     spec:
       containers:
         - name: reddit-clone
-          image: trainwithshubham/reddit-clone
+          image: urdevops/reddit-clone
           ports:
             - containerPort: 3000
 
