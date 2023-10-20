@@ -65,22 +65,6 @@ CMD ["npm","run","dev"]
 
 ## Step 5: Build and Push Docker Image 🚀
 
-Build the Docker image from the Dockerfile using the following command:
-
-```
-docker build . -t sumanprasad007/reddit-clone
-
-```
-
-After building the image, push it to Docker Hub by running:
-
-
-```
-docker login
-# Enter your username and password
-docker push sumanprasad007/reddit-clone
-
-```
 
 ## Step 6: Connect to Deployment Server 🖥️
 
